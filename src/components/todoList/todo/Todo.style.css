@@ -1,0 +1,11 @@
+.todo-item h3 {
+	display: inline-block;
+	margin: 0.8em;
+	padding: 0.8em 0;
+	border-bottom: solid #ccc 1px;
+}
+
+.completed {
+	color: #ccc;
+	text-decoration: line-through;
+}
